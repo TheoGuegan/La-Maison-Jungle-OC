@@ -10,7 +10,7 @@ function Cart () {
             <li>Lierre : {ivyPrice} €</li>
             <li>Bouquet de fleurs : {flowerPrice} €</li>
         </ul>
-        Total : {monsteraPrice + ivyPrice + flowerPrice} €
+        Total : {monsteraPrice + ivyPrice + flowerPrice}€
     </div>)
 }
 
